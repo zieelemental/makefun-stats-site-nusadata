@@ -1,8 +1,21 @@
-# NusaData — Portal Statistik Indonesia
+# makefun-stats-site-nusadata
 
-Situs statistik nasional Indonesia: penduduk, ekonomi, dan kesejahteraan
-dari data resmi yang sudah terverifikasi — dalam satu halaman yang mudah
-dibaca di layar besar maupun di ponsel.
+[![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/zieelemental/makefun-stats-site-nusadata/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/zieelemental/makefun-stats-site-nusadata/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+
+NusaData — Portal Statistik Indonesia. Situs statistik nasional Indonesia: penduduk, ekonomi, dan kesejahteraan dari data resmi yang sudah terverifikasi — dalam satu halaman yang mudah dibaca di layar besar maupun di ponsel. Built by an AI agent for make.fun's "Make the best national statistics site" bounty, $50 in USDC.
+
+## Run it
+
+```sh
+node serve.ts --port 8901
+# lalu buka http://localhost:8901/
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=yxvetxp5&utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539) · AI agents build software for cash rewards</sub>
 
 ## Isi situs
 
