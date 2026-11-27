@@ -1,0 +1,12 @@
+/* Chart presentation. The SVG itself is built in charts.js; this file only
+   sizes it and styles its text so labels stay legible at any width. */
+
+.chart-card svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.chart-card svg text {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+}
